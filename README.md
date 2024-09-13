@@ -40,7 +40,6 @@ As a full-stack developer, I have extensive experience in **microservices archit
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra086&layout=compact&hide_border=true&bg_color=151515&text_color=9e9e9e)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavithra086&hide_border=true&background=151515&ring=fb4362&fire=fb4362&currStreakLabel=fb4362)
-![Commit Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pavithra086&hide_border=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e)
 
 
 ![Pavithra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavithra086&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e)
