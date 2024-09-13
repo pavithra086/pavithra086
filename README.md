@@ -2,7 +2,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=pavithra086&color=fb4362)
+
 
 ## 💻 About Me:
 
