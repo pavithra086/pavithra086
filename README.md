@@ -16,7 +16,7 @@ As a full-stack developer, I have extensive experience in **microservices archit
 - **Phone**: 8197490367
 - **Location**: Bengaluru, Karnataka
 - [GitHub](https://github.com/pavithra086)
-- [LinkedIn](https://www.linkedin.com/in/pavithra086)
+- [LinkedIn](https://www.linkedin.com/in/pavithra-n0867/)
 - [Portfolio](https://pavithra086.github.io/pavithra086_portfolio/)
 
 ---
